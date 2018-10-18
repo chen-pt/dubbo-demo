@@ -1,2 +1,2 @@
 # dubbo-demo
-dubbo的简单练习
+dubbo的练习
